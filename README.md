@@ -11,6 +11,6 @@ Veritabanında temel CRUD işlemleri (Oluşturma, Okuma, Güncelleme, Silme)
 Ürün isimleri ve fiyatlarına göre grafik tablolama
 Backend ve Frontend arasında API servisi ile iletişim
 
-![All Products](angular/src/assets/images/products.png)
-![Dashboard](angular/src/assets/images/dashboard.png)
-![Chart](angular/src/assets/images/chartJs.png)
+![All Products](chartJs/angular/src/assets/images/products.png)
+![Dashboard](chartJs/angular/src/assets/images/dashboard.png)
+![Chart](chartJs/angular/src/assets/images/chartJs.png)
